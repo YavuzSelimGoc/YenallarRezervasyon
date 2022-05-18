@@ -30,7 +30,7 @@ namespace YenallarRezervasyon
 
         private void FrmKonaklamaRezervasyon_Load(object sender, EventArgs e)
         {
-            MessageBox.Show(TelNo);
+            MessageBox.Show(TelNo); 
         }
 
         private void BtnOnayla_Click(object sender, EventArgs e)
